@@ -2,8 +2,6 @@
 Grant Zhao
 200484531
 
-
-
 Ikechukwu Henry Ogowuihe
 200469736
 
