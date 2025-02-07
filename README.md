@@ -1,4 +1,4 @@
-# ENSE271_GroupProject
+# ENSE-271 Website Project
 Grant Zhao
 200484531
 
